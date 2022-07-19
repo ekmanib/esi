@@ -151,7 +151,7 @@ fig.show()
 
 
 
-![img radar plot](files_support/radar_plot.png)
+![img radar plot](files_support/third.png)
 
 Another possibility offered by the data is the visualization of maps.
 
