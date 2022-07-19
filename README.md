@@ -65,7 +65,7 @@ def plot_barchart(df):
 
 
     
-![png](esi_analysis_files/esi_analysis_4_0.png)
+![png](files_support/first.png)
     
 
 
@@ -105,7 +105,7 @@ def plot_movi_index(df):
 
 
     
-![png](esi_analysis_files/esi_analysis_6_0.png)
+![png](files_support/second.png)
     
 
 
@@ -151,7 +151,7 @@ fig.show()
 
 
 
-![img radar plot](../esi/files_support/radar_plot.png)
+![img radar plot](files_support/radar_plot.png)
 
 Another possibility offered by the data is the visualization of maps.
 
@@ -194,7 +194,7 @@ _ = ax.set_axis_off()
 
 
     
-![png](esi_analysis_files/esi_analysis_13_0.png)
+![png](files_support/fourth.png)
     
 
 
